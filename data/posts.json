@@ -1,0 +1,9 @@
+[
+  {
+    "id": 2,
+    "title": "My second Blog",
+    "content": "I already know to add a POST route",
+    "author": "lana",
+    "createdAt": "2025-05-12"
+  }
+]
